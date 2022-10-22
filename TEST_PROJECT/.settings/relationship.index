@@ -1,0 +1,20 @@
+[ {
+  "baseItem" : {
+    "id" : "_gTUiEFHvEe27PpVnDooD5g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_-mINsFH5Ee2OkudlS_i6ug",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gNLL4FHxEe2OkudlS_i6ug",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]
